@@ -8,6 +8,7 @@ import "./Posts.css";
 
 // pass props in this file to
 const Post = props => {
+
   const [likes] = useState(props.post.likes)
   
 
