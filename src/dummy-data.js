@@ -7,15 +7,15 @@ const dummyData = [
         timestamp: "July 17th 2017, 12:42:40 pm",
         comments: [
             {
-                username: "philzcoffee",
+                username: "philzcoffee: ",
                 text: "We've got more than just delicious coffees to offer at our shops!"
             },
             {
-                username: "biancasaurus",
+                username: "biancasaurus: ",
                 text: "Looks delicious!"
             },
             {
-                username: "martinseludo",
+                username: "martinseludo: ",
                 text: "Can't wait to try it!"
             }
         ]
@@ -32,16 +32,66 @@ const dummyData = [
                 text: "Epic Street Fighter action here in Las Vegas at #EVO2017!"
             },
             {
-                username: "michaelmarzetta",
+                username: "michaelmarzetta: ",
                 text: "Omg that match was crazy"
             },
             {
-                username: "themexican_leprechaun",
+                username: "themexican_leprechaun: ",
                 text: "What a setup"
             },
             {
-                username: "dennis_futbol",
+                username: "dennis_futbol: ",
                 text: "It that injustice"
+            }
+        ]
+    },
+    {
+        username: " ",
+        thumbnailUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png',
+        imageUrl: 'https://i.insider.com/5dcee8473afd37158f6c8ab9?width=1100&format=jpeg&auto=webp',
+        likes: 10507,
+        timestamp: "March 17th 2020, 03:12:09 pm",
+        comments: [
+            {
+                username: "pokeFan: ",
+                text: "Me and the gang had a picnic despite Corona Virus quarantine warning!"
+            },
+            {
+                username: "mistyWaters: ",
+                text: "Ash made us late!"
+            },
+            {
+                username: "AshMan3000: ",
+                text: "We would have been on time if you would stop talking"
+            },
+            {
+                username: "Brock: ",
+                text: "Did anyone invite Nurse Joy?"
+            }
+        ]
+    },
+    {
+        username: " ",
+        thumbnailUrl: 'https://www.dreamworks.com/storage/movies/shrek/shrek-logo.png',
+        imageUrl: 'https://images.csmonitor.com/csmarchives/2010/05/0521-Film-Review-Shrek-Forever.jpg?alias=standard_900x600nc',
+        likes: 20409,
+        timestamp: "March 17th 2020, 03:12:09 pm",
+        comments: [
+            {
+                username: "StinkMan: ",
+                text: "Havin' kids be like..."
+            },
+            {
+                username: "Donkey: ",
+                text: "Don't they look adorable"
+            },
+            {
+                username: "BootsOnPuss: ",
+                text: "You look extremely uncomfortable my friend"
+            },
+            {
+                username: "Lord Farquad: ",
+                text: "You wouldn't had to deal with that @FionaDear if you would have married me"
             }
         ]
     }
